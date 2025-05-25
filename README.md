@@ -7,7 +7,7 @@ GUVI Hackathon Project:<br>
 This is a collobrative work done by Aakarsh, Ishita, Madhav and Sparsh of Galgotias University, B.Tech 2nd Sem, Section 11 and uploaded here.
 
 #USAGE EXAMPLE
-[![USE]](Screen Recording 2025-05-25 203302.mp4)
+!(/Screen Recording 2025-05-25 203302.mp4)
 
 # IMPORTANT
 When you first time download this project, the start.bat file will pop up a security warning. Click "MORE INFO" then "RUN ANYWAY". This happens for the first time only because the start.bat file is used to automate actions with single action. The project is open source so feel free to check the bat file before running it for a self cofirmation if any suspision arises.
