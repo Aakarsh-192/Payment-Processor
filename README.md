@@ -1,8 +1,8 @@
 # Payment Processor - CMPay
 GUVI Hackathon Project:<br>
 ✅ Review 0<br>
-✅ Review 1<br>
-⏳ Review 2<br>
+✅ Review 1<br> (DUE TO SHORTAGE OF TIME, SOME FUCTIONS LIKE QR, BETTER VISUALS, SOME MINOR ERROR FIXES WERE PUT ON HOLD TILL FOR REVIEW 2, WE DECIDED TO CHOOSE "FUNCTIONAL QUALITY AND REQUIRED QUALITY" OVER "NON-FUNCTIONAL QUALITY AND AWESOME VISUAL QUALITY")
+⏳ Review 2<br> (NEXT SUBMISSION WILL HAVE COMPLETE INTENDED FUNCTIONALITY AND BEST POSSIBLE VISUAL QUALITY)
 <br>
 This is a collobrative work done by Aakarsh, Ishita, Madhav and Sparsh of Galgotias University, B.Tech 2nd Sem, Section 11 and uploaded here.
 
